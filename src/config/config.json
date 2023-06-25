@@ -1,14 +1,14 @@
 {
   "site": {
-    "title": "Pinwheel Astro",
+    "title": "SeineConnect – Opérateur et intégrateur Local ",
     "base_url": "https://pinwheel-astro.vercel.app",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
     "logo": "/images/logo.png",
-    "logo_width": "147",
-    "logo_height": "31",
-    "logo_text": "Pinwheel"
+    "logo_width": "260",
+    "logo_height": "35",
+    "logo_text": "SeineConnect"
   },
 
   "settings": {

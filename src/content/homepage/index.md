@@ -1,17 +1,17 @@
 ---
 banner:
-  title: "Scale design & dev operations with Avocode Enterprise"
-  content: "A fully integrated suite of authentication & authoriz products, Stytch’s platform removes the headache of."
+  title: "Votre Opérateur Local, Créateur d'Internet sur Mesure en Seine-Maritime!"
+  content: "Découvrez Internet Autrement avec Nous : Votre Opérateur et Intégrateur Local en Seine-Maritime, Fier d'Offrir des Solutions Internet de Proximité Adaptées à vos Besoins!"
   image: /images/banner-img.png
   button:
     label: Download The Theme
     link: "https://themefisher.com/astro-themes/pinwheel-astro"
-    enable: true
+    enable: false
 
 ##key features
 key_features:
-  title: "The Highlighting Part Of Our Solution"
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin.
+  title: "Nos services proposés"
+  description: "Découvrez nos services sur mesure, conçus spécialement pour répondre à vos besoins en Seine-Maritime. Nous proposons des solutions Internet innovantes, de l'intégration à la gestion réseau, en privilégiant la proximité, le service client et la qualité de connexion."
   feature_list:
     - icon: "map"  #icon package react-feather-icon [https://feathericons.com/]
       title: Live Caption
