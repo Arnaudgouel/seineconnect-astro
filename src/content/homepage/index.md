@@ -2,11 +2,11 @@
 banner:
   title: "Votre Opérateur Local, Créateur d'Internet sur Mesure en Seine-Maritime!"
   content: "Découvrez Internet Autrement avec Nous : Votre Opérateur et Intégrateur Local en Seine-Maritime, Fier d'Offrir des Solutions Internet de Proximité Adaptées à vos Besoins!"
-  image: /images/banner-img.png
+  image: /images/banner-img.jpg
   button:
-    label: Download The Theme
-    link: "https://themefisher.com/astro-themes/pinwheel-astro"
-    enable: false
+    label: Contactez-nous
+    link: "contact"
+    enable: true
 
 ##key features
 key_features:
@@ -14,14 +14,14 @@ key_features:
   description: "Découvrez nos services sur mesure, conçus spécialement pour répondre à vos besoins en Seine-Maritime. Nous proposons des solutions Internet innovantes, de l'intégration à la gestion réseau, en privilégiant la proximité, le service client et la qualité de connexion."
   feature_list:
     - icon: "map"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Live Caption
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      title: Hôtels
+      content: Nous boostons la satisfaction client et améliorons la productivité des équipes en connectant tous les services et terminaux métiers.
     - icon: "lock"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Smart Reply
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      title: Résidences étudiantes
+      content: Nous opérons des réseaux future-proof capables d’absorber l’incroyable croissance de usages internet des étudiantes.
     - icon: "link"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Sound Amplifier
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      title: Campings
+      content: Un service Fibre et WiFi 5 étoiles pour accélérer la transformation digitale de tous les professionnels de l’hébergement de plein air.Wifi campings >
     - icon: "bell"  #icon package react-feather-icon [https://feathericons.com/]
       title: Sound Amplifier
       content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -80,52 +80,12 @@ service:
 
 #testimonial
 testimonial:
-  title: Our customers have nice things to say about us
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin.
+  title: Nos clients parlent de nous
+  description: 
   testimonial_list:
-    - author: David Cameron
-      avatar: "/images/users/user-5.png"
-      organization: meta limited
-      rating: four
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
-    - author: David Cameron
-      avatar: "/images/users/user-6.png"
-      organization: meta limited
-      rating: four
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
-    - author: David Cameron
-      avatar: "/images/users/user-2.png"
-      organization: meta limited
-      rating: three
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
-    - author: David Cameron
-      avatar: "/images/users/user-3.png"
-      organization: meta limited
-      rating: five
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
-    - author: David Cameron
-      avatar: "/images/users/user-4.png"
-      organization: meta limited
-      rating: five
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
-    - author: David Cameron
-      avatar: "/images/users/user-1.png"
-      organization: meta limited
-      rating: three
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
-    - author: David Cameron
-      avatar: "/images/users/user-5.png"
-      organization: meta limited
-      rating: five
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
-    - author: David Cameron
-      avatar: "/images/users/user-5.png"
-      organization: meta limited
-      rating: five
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
-    - author: David Cameron
-      avatar: "/images/users/user-5.png"
-      organization: meta limited
-      rating: five
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
+    - author: Jane Miller
+      avatar: 
+      organization: 
+      rating:
+      content: Originale et avec une compréhension innée des besoins de leurs clients, l'équipe de SeineConnect est toujours un plaisir à travailler avec.
 ---
