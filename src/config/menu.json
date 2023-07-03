@@ -6,7 +6,7 @@
     },
     {
       "name": "Secteurs",
-      "url": "/about"
+      "url": "/secteurs"
     },
     {
       "name": "Solutions",
@@ -24,8 +24,8 @@
 
   "footer": [
     {
-      "name": "About",
-      "url": "/about"
+      "name": "Secteurs",
+      "url": "/secteurs"
     },
     {
       "name": "Contact",

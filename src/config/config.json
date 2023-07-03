@@ -18,16 +18,16 @@
   },
 
   "call_to_action": {
-    "title": "Helping teams in the world with focus",
-    "description": "Lorem ipsum dolor sit sed dmi amet, consectetur adipiscing. Cdo tellus, sed condimentum volutpat.",
+    "title": "Un besoin, une question, une demande de renseignement ?",
+    "description": "Vous avez des questions ? Besoin d'assistance technique ? Ne cherchez plus ! Cliquez sur le bouton et laissez-nous vous guider. Notre équipe locale est à votre disposition pour vous offrir une assistance rapide, personnalisée et efficace. Avec nous, l'aide est à portée de clic.",
     "button": {
-      "label": "Download The Theme",
-      "link": "https://themefisher.com/astro-themes/pinwheel-astro"
+      "label": "Contactez-nous",
+      "link": "contact"
     }
   },
 
   "disqus": {
-    "enable": true,
+    "enable": false,
     "shortname": "themefisher-template",
     "settings": {}
   },
@@ -38,7 +38,7 @@
     "location": "85 Bld de Strasbourg 76600 Le Havre",
     "phone": "06 79 11 60 85",
     "contact_form_action": "#",
-    "copyright": "Copyright © 2023 a theme by [Themefisher](https://themefisher.com)"
+    "copyright": ""
   },
 
   "metadata": {
